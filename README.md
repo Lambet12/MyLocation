@@ -10,4 +10,4 @@
 또한 길찾기 기능을 통해 현재 위치부터 목적지까지의 경로를 검색해볼 수 있다.
 
 ### 앱인벤터 디자이너
-!https://github.com/Lambet12/MyLocation/blob/main/%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88.jpg
+![디자이너](https://github.com/Lambet12/MyLocation/blob/main/%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88.jpg)
